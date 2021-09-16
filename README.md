@@ -1,0 +1,2 @@
+# Notepad editor
+This program is a notepad editor created with Java Swing where the user is capable of changing the font size, make the font bold or italic, save the the text in a .txt file or open and edit an existing .txt file.
